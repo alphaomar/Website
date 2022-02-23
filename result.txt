@@ -4,3 +4,4 @@ John            50
 Mary             78
 Konky           90
 tinker          40
+bob              67
