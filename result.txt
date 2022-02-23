@@ -3,3 +3,4 @@ Peter           67
 John            50
 Mary             78
 Konky           90
+tinker          40
